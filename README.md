@@ -147,6 +147,3 @@ Feedstock Maintainers
 
 * [@hoxbro](https://github.com/hoxbro/)
 
-
-<!-- dummy commit to enable rerendering -->
-
