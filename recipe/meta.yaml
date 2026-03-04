@@ -1,5 +1,5 @@
 {% set name = "clean-notebook" %}
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -7,8 +7,8 @@ package:
   version: {{ version }}
 
 source:
-  url: https://files.pythonhosted.org/packages/b5/17/b97636120b58a568b3ff12b3822d207e0120feea6273510b86d8a8f52c5a/clean_notebook-{{ version }}.tar.gz
-  sha256: 16df7c59f014fb276ba064a4d7698eb4dbd964c7d1bc86da1c701fe644bf906f
+  url: https://files.pythonhosted.org/packages/2d/b4/54554163914879c3a45587e06692739a33e7fef7af78611c402cc2348269/clean_notebook-{{ version }}.tar.gz
+  sha256: f2914a8c541b37a740ab90412e75291521a20f3c47d4c086eb4aebe489a7e30d
 
 build:
   entry_points:
